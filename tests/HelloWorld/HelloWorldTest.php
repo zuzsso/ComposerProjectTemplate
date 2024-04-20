@@ -2,6 +2,8 @@
 
 declare(strict_types=1);
 
+namespace YourProject\Tests\HelloWorld;
+
 use DI\DependencyException;
 use DI\NotFoundException;
 use YourProject\HelloWorld\Service\HelloSayer;

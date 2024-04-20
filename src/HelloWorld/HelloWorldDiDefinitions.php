@@ -4,7 +4,7 @@ declare(strict_types=1);
 
 namespace YourProject\HelloWorld;
 
-use YourProject\AbstractDependencyInjection;
+use DiManifest\AbstractDependencyInjection;
 use YourProject\HelloWorld\Service\HelloSayer;
 use YourProject\HelloWorld\UseCase\SayHello;
 
